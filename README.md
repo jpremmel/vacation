@@ -10,7 +10,7 @@ _The intention of this project was to build a website featuring a place that wou
 
 ## Setup/Installation Requirements
 
-You can view this project at https://jpremmel.github.io/vacation/.
+_This project can be viewed at https://jpremmel.github.io/vacation/._
 
 ### License
 
