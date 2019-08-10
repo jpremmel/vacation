@@ -14,4 +14,4 @@ You can view this project at https://jpremmel.github.io/vacation/.
 
 ### License
 
-Copyright (c) 2019 **_Jacqueline Remmel and Kira Roberts}_**
+Copyright (c) 2019 **_Jacqueline Remmel and Kira Roberts_**
